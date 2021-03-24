@@ -1,0 +1,10 @@
+C:\Users\Jacob\source\repos\Start program without stealing focus snippet\bin\Debug\Start program without stealing focus snippet.exe.config
+C:\Users\Jacob\source\repos\Start program without stealing focus snippet\bin\Debug\Start program without stealing focus snippet.exe
+C:\Users\Jacob\source\repos\Start program without stealing focus snippet\bin\Debug\Start program without stealing focus snippet.pdb
+C:\Users\Jacob\source\repos\Start program without stealing focus snippet\obj\Debug\Start program without stealing focus snippet.csprojAssemblyReference.cache
+C:\Users\Jacob\source\repos\Start program without stealing focus snippet\obj\Debug\Start_program_without_stealing_focus_snippet.Form1.resources
+C:\Users\Jacob\source\repos\Start program without stealing focus snippet\obj\Debug\Start_program_without_stealing_focus_snippet.Properties.Resources.resources
+C:\Users\Jacob\source\repos\Start program without stealing focus snippet\obj\Debug\Start program without stealing focus snippet.csproj.GenerateResource.cache
+C:\Users\Jacob\source\repos\Start program without stealing focus snippet\obj\Debug\Start program without stealing focus snippet.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\Start program without stealing focus snippet\obj\Debug\Start program without stealing focus snippet.exe
+C:\Users\Jacob\source\repos\Start program without stealing focus snippet\obj\Debug\Start program without stealing focus snippet.pdb
