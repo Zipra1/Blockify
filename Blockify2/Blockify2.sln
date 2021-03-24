@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blockify2", "Blockify2.csproj", "{45D378F5-5372-49E0-BD45-6581AC8FF2DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45D378F5-5372-49E0-BD45-6581AC8FF2DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D378F5-5372-49E0-BD45-6581AC8FF2DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D378F5-5372-49E0-BD45-6581AC8FF2DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D378F5-5372-49E0-BD45-6581AC8FF2DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C48E4188-1F80-4692-AEB8-60A64BDCCBCE}
+	EndGlobalSection
+EndGlobal
