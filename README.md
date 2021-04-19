@@ -4,6 +4,6 @@ If you're here to update your version, download the zip file, called something a
 To update your current version of Blockify, uninstall the old one from Add or Remove Programs. Then, unzip this version somewhere and it should work as intended.
 
 Known problems:
-  Minimizing fullscreen apps
-  Stealing focus for a second, this is not too big a deal on windowed apps.
-  Causes some fullscreen apps to repeatedly open and close.
+  Minimizing fullscreen apps:
+  Stealing focus for a second, this is not too big a deal on windowed apps:
+  Causes some fullscreen apps to repeatedly open and close:
